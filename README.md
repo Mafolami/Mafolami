@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mafolami
-- 👀 I’m interested in data analytics, visualization and machine learning
-- 🌱 I’m currently learning Python, SQL, and Machine learning algorithms.
-- 💞️ I’m looking to collaborate on projects in these interest areas
+- 👀 I’m interested in data analytics, visualization and machine learning with Python, SQL, R, Power BI, and Tableau.
+- 🌱 I’m currently learning Machine learning algorithms.
+- 💞️ I’m looking to collaborate on projects in health, peace and conflict, international development.
 - 📫 How to reach me is via email: michafolami@gmail.com
 
 <!---
